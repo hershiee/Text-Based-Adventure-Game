@@ -1,5 +1,5 @@
 # Text-Based-Adventure-Game
-Text-based game in Python with an engaging storyline and interactive gameplay.
+Text-based game in Python with an engaging storyline and interactive and CLI based gameplay.
 Implemented features such as character creation, decision-making, and branching story paths.
 Used clear and intuitive command inputs for player actions. 
 Incorporate elements like inventory management, puzzles, and quests.
